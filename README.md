@@ -6,7 +6,7 @@
 docker-compose up --build -d
 ```
 
-Import mongodb-java-driver </br>
+Import mongo-java-driver </br>
 ``
 Go to your project strucutre and simply add .jar 
 located 'lib/mongo-java-driver-3.8.2.jar' to your sdk is class path
