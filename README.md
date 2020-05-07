@@ -14,7 +14,7 @@ located 'lib/mongo-java-driver-3.8.2.jar' to your sdk is class path
 
 Launch project </br>
 ``
-First of all, you have to launch the RunServer class located 'src/sample/ClientServeur/RunServer.java'
+First of all, you have to launch the RunServer class located 'src/sample/ClientServeur/RunServer.java' </br>
 Then you could launch as many clients as you want, located src/sample/Main.java'
 ``
 
